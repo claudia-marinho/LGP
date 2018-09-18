@@ -1,8 +1,10 @@
 	
 # Home Pricing
+**Home Pricing** is a free mobile application whose main objective is to help people find the most suitable properties for them in the real estate market. This web app provides not only an user-friendly interface but also a wide range of functionalities that will help satisfy the costumer's needs when it comes to finding the perfect home.
 
+This project was proposed to my group by Deloitte, a widely renowned multinational enterprise. If you want to learn more about this project, click [here](https://arwen7stars.github.io/pages/home-pricing.html "Home Pricing").
 
-## Docker Ubunto Instalation
+## Docker Ubuntu Instalation
 
 1. https://www.digitalocean.com/community/tutorials/como-instalar-e-usar-o-docker-no-ubuntu-16-04-pt
 
