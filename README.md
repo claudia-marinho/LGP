@@ -14,6 +14,9 @@ This project was proposed to my group by Deloitte, a widely renowned multination
 * [Product Installation and Maintenance Packages](https://drive.google.com/file/d/1N5O5u8NO4fCE7eZPdjNl-FuhZJm8X_tK/view?usp=sharing)
 * [Software Development Report](https://drive.google.com/file/d/1khOXN-4REk4Rny77SXYlO2z522KfV3N7/view?usp=sharing)
 
+## Presentation
+* [Home Pricing Presentation](https://drive.google.com/file/d/10dOL1o2YvBhRQ2vQpgJEcgy8JPysE6jR/view?usp=sharing)
+
 ## Team
 This project was developed for the subject of LGP@FEUP by the following team.
 
