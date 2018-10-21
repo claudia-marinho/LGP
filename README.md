@@ -5,7 +5,7 @@
 ## Description
 **Home Pricing** is a free mobile application whose main objective is to help people find the most suitable properties for them in the real estate market. This web app provides not only an user-friendly interface but also a wide range of functionalities that will help satisfy the costumer's needs when it comes to finding the perfect home.
 
-This project was proposed to my group by Deloitte, a widely renowned multinational enterprise. If you want to learn more about this project, click [here](https://arwen7stars.github.io/pages/home-pricing.html "Home Pricing").
+This project was proposed to my group by Deloitte, a widely renowned multinational enterprise. If you want to see videos, screenshots and some other information of this project on my personal website, click [here](https://arwen7stars.github.io/pages/home-pricing.html "Home Pricing").
 
 ## Documentation
 * [System Requirements Specification](https://drive.google.com/file/d/1LD_w9felRayQfRCyYDyuog0w6MDLi-0G/view?usp=sharing)
